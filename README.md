@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
+
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Ahortu90&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)44535896
+![](https://github-readme-stats.vercel.app/api?username=Ahortu90&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
