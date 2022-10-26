@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is `Ahortu Derrick`
 
 <!--
-**Ahortu90/Ahortu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ahortu901/Ahortu901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Ahortu90&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahortu90&theme=onedark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahortu90&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ahortu901&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahortu901&theme=onedark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahortu901&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahortu90&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ahortu901&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
