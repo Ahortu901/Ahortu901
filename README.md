@@ -6,10 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💬 Chat me on ... [WhatsApp]( https://[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
-[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
-[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
-wa.me/+233558039093)
+- 💬 Chat me on ... [WhatsApp](wa.me/+233558039093)
 - 📫 How to reach me: [ahortuderrick0@gmail.com](mailto:ahortuderrick0@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to code at night
