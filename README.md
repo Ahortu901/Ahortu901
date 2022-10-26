@@ -1,4 +1,4 @@
-44535896### Hi there 👋, my name is `Ahortu Derrick`
+### Hi there 👋, my name is `Ahortu Derrick`
 
 <!--
 **Ahortu90/Ahortu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 💬 Chat me on ... [WhatsApp]( https://wa.me/+233558039093)
+- 💬 Chat me on ... [WhatsApp]( https://[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
+[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
+[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
+wa.me/+233558039093)
 - 📫 How to reach me: [ahortuderrick0@gmail.com](mailto:ahortuderrick0@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to code at night
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)[aricktech@arickTech derrickALX]$ git clone https://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@github.com/Ahortu901/.git
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊GitHub Stats :
 
