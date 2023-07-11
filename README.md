@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 👊👌😷😇
 
 # 📊GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ahortu901&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahortu901&langs_count=5&theme=tokyonight)]()
 
 ## 🏆GitHub Trophies
 😇😇![](https://github-profile-trophy.vercel.app/?username=Ahortu901&theme=radical&no-frame=false&no-bg=false&margin-w=4)
