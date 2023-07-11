@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 👊👌😷😇
 
 # 📊GitHub Stats :
-![](https://github.com/Ahortu901/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Ahortu901/github-stats/blob/master/generated/languages.svg)
+[![Ahotu Drrick's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ahortu901&count_private=true&theme=tokyonight&showicons=true)]()
+[![Ahotu Drrick's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahortu901&langs_count=3&theme=tokyonight)]()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahortu901&theme=onedark&hide_border=true)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ahortu901&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahortu901&langs_count=5&theme=tokyonight)]()
