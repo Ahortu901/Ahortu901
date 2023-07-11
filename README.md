@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [ahortuderrick0@gmail.com](mailto:ahortuderrick0@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to code at night
+👊👌😷😇
 
 # 📊GitHub Stats :
 
@@ -24,7 +25,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![Profile views](https://visitcount.itsvg.in/api?id=Ahortu901&label=Profile%20Views&pretty=true)
+![Profile views](https://visitcount.itsvg.in/api?id=Ahortu901&label=Profile%20Views&pretty=flase)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
-- 👊👌😷😇
