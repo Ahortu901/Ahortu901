@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![Profile views](https://visitcount.itsvg.in/api?id=Ahortu901&label=Profile%20Views&pretty=false)
+![Profile views](https://visitcount.itsvg.in/api?id=Ahortu901&label=Profile%20Views&pretty=true)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
 - 👊👌😷😇
