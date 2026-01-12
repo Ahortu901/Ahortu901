@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💬 Chat me on ... [WhatsApp]( https://wa.me/+233558039093)
+- 💬 Chat me on ... [WhatsApp]( https://wa.me/+447402916855)
 - 📫 How to reach me: [ahortuderrick0@gmail.com](mailto:ahortuderrick0@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to code at night
