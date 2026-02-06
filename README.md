@@ -1,91 +1,72 @@
-## 👋 Hi there, I’m **Ahortu Derrick**
+## 👋 Hi, I’m **Ahortu Derrick**
 
-🚀 Python Developer | Machine Learning Enthusiast | Data & AI Learner  
-
-I enjoy building data-driven solutions, experimenting with machine learning models, and turning raw data into useful insights.
+🚀 Software Developer | Python • JavaScript • Systems & Automation  
+I enjoy building practical solutions, learning new technologies, and working on data + automation projects.
 
 ---
 
 ### 📫 Connect with me
-- 💬 **WhatsApp:** [Chat with me](https://wa.me/+447402916855)  
-- 📧 **Email:** [ahortuderrick0@gmail.com](mailto:ahortuderrick0@gmail.com)
+- 💬 WhatsApp: https://wa.me/+447402916855  
+- 📧 Email: ahortuderrick0@gmail.com  
 
 ---
 
-### 😄 About Me
-- 🔭 Currently working on **Machine Learning & Neural Network projects**
-- 🌱 Learning more about **Deep Learning and model optimisation**
-- ⚡ Fun fact: I do my best coding **late at night 🌙**
-- 👊 Always improving, always learning
+## 🧰 Tech Stack (from my GitHub repos)
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- C / C++
+- Swift
+- HTML / CSS
+- Shell
+- Ruby
+- CMake
+- Assembly
+- Puppet
+
+### Topics
+- config
+- github-config
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python  
-- **Machine Learning:** scikit-learn, TensorFlow / Keras  
-- **Data:** Pandas, NumPy  
-- **Tools:** Git, GitHub, Google Colab, Weka  
-- **Other:** Data preprocessing, model evaluation, EDA  
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats (alternative widgets)
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ahortu901&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahortu901&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ahortu901&theme=onedark&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahortu901&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahortu901&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahortu901&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahortu901&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahortu901&theme=github_dark&utcOffset=0" alt="Productive time" />
 </p>
-
-> ℹ️ If stats fail to load, it is usually a temporary GitHub API limitation.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies (alternative style)
+
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ahortu901&theme=radical&no-frame=true&margin-w=10"
-    alt="GitHub trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahortu901&theme=discord&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-    alt="Dev quote"
-  />
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://visitcount.itsvg.in/api?id=Ahortu901&label=Profile%20Views&pretty=false"
-    alt="Profile views"
-  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=footer"
-    alt="Footer"
-  />
+  <img src="https://visitcount.itsvg.in/api?id=Ahortu901&label=Profile%20Views&pretty=false" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=footer" alt="Footer" />
 </p>
