@@ -6,7 +6,7 @@ I enjoy building practical solutions, learning new technologies, and working on 
 ---
 
 ### 📫 Connect with me
-- 💬 WhatsApp: [https://wa.me/+447402916855]  
+- 💬 WhatsApp: https://wa.me/+447402916855
 - 📧 Email: ahortuderrick0@gmail.com  
 
 ---
