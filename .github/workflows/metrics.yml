@@ -2,30 +2,32 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 8 * * 1"   # every Monday 08:00 UTC
+    - cron: "0 8 * * 1"   # Every Monday 08:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Ahortu901
+
+          # Look & layout
           template: classic
           base: header, activity, community, repositories, metadata
 
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
-
-          # Last 12 months contribution views
+          # Reliable "last year" activity views
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
+          # Output file
           filename: metrics.svg
