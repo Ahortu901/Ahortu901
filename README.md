@@ -9,10 +9,6 @@ I enjoy building practical solutions, learning new technologies, and working on 
 - 💬 WhatsApp: https://wa.me/+447402916855  
 - 📧 Email: ahortuderrick0@gmail.com  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahortu901&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧰 Tech Stack (from my GitHub repos)
@@ -73,6 +69,9 @@ I enjoy building practical solutions, learning new technologies, and working on 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ahortu901&style=for-the-badge" alt="Profile Views" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=footer" alt="Footer" />
 </p>
