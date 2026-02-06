@@ -11,7 +11,7 @@ I enjoy building practical solutions, learning new technologies, and working on 
 
 ---
 
-## 🧰 Tech Stack (from my GitHub repos)
+## 🧰 Tech Stack
 
 ### 💻 Languages
 <p align="left">
@@ -54,7 +54,7 @@ I enjoy building practical solutions, learning new technologies, and working on 
 
 ---
 
-## 🏆 Achievements (Reliable)
+## 🏆 Achievements
 
 <p align="center">
   <img src="./metrics.svg" alt="GitHub Achievements" />
