@@ -50,10 +50,13 @@ I enjoy building practical solutions, learning new technologies, and working on 
 
 ---
 
-## 🏆 Trophies (alternative style)
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahortu901&theme=discord&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Ahortu901&theme=onedark&row=1&column=6&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
