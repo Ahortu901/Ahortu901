@@ -60,8 +60,6 @@ I enjoy building practical solutions, learning new technologies, and working on 
   <img src="./metrics.svg" alt="GitHub Achievements" />
 </p>
 
-> ℹ️ If you don’t see the achievements image yet, wait 1–2 minutes after adding the GitHub Action below, then refresh.
-
 ---
 
 ### ✍️ Random Dev Quote
