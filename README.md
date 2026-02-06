@@ -49,7 +49,7 @@ I enjoy building practical solutions, learning new technologies, and working on 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahortu901&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahortu901&theme=github_dark&utcOffset=+1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahortu901&theme=github_dark&utcOffset=+00" alt="Productive Time" />
 </p>
 
 ---
