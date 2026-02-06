@@ -6,12 +6,18 @@ I enjoy building practical solutions, learning new technologies, and working on 
 ---
 
 ### 📫 Connect with me
-- 💬 WhatsApp: https://wa.me/+447402916855
+- 💬 WhatsApp: https://wa.me/+447402916855  
 - 📧 Email: ahortuderrick0@gmail.com  
 
----
-## 💻 Languages
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahortu901&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
+
+## 🧰 Tech Stack (from my GitHub repos)
+
+### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,16 +34,16 @@ I enjoy building practical solutions, learning new technologies, and working on 
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
-### Topics
-- config
-- github-config
+### 🧩 Topics
+- config  
+- github-config  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahortu901&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahortu901&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
@@ -46,17 +52,19 @@ I enjoy building practical solutions, learning new technologies, and working on 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahortu901&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahortu901&theme=github_dark&utcOffset=0" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahortu901&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahortu901&theme=github_dark&utcOffset=0" alt="Productive Time" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements (Reliable)
 
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
+  <img src="./metrics.svg" alt="GitHub Achievements" />
 </p>
+
+> ℹ️ If you don’t see the achievements image yet, wait 1–2 minutes after adding the GitHub Action below, then refresh.
 
 ---
 
@@ -64,11 +72,6 @@ I enjoy building practical solutions, learning new technologies, and working on 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahortu901&style=for-the-badge" alt="Profile views" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=footer" alt="Footer" />
